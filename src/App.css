@@ -1,0 +1,9 @@
+.app__mainpage {
+  display: flex;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
