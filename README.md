@@ -16,10 +16,7 @@ Here, I’m using <b>Email/Password Sign-in method.</b>
 
 [YouTube-clone](https://singular-alpaca-0f215d.netlify.app)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 6dae7465641c61da630a4271371cc2e86791895e
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
